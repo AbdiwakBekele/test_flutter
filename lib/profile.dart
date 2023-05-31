@@ -51,6 +51,7 @@ class _ProfileState extends State<Profile> {
                   var num1 = count;
                   var num2 = int.parse(message);
                   result = num1 + num2;
+                  print("Tdest");
                 });
               },
             )
